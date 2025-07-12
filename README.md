@@ -1,4 +1,4 @@
-## [My Blog 🔮](https://eledah.github.io/quartz_blog/)
+## [My Blog 🔮](https://blog.eledah.ir)
 
 ## Projects
 
